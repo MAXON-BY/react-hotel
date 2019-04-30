@@ -20,6 +20,7 @@ body {
   margin: 40px auto;
   background-color: rgba(255, 255, 255, 0.86);
   padding: 0 30px;
+  box-sizing: border-box;
 }
 
 .header {
@@ -40,7 +41,7 @@ body {
 }
 
 
-/* Search bar */
+/* SearchBar bar */
 
 .search-bar {
   width: 100%;
