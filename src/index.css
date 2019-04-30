@@ -142,3 +142,7 @@ body {
 .hotel-price {
   font-weight: 600;
 }
+
+.grid figure figcaption{
+  cursor: pointer;
+}
